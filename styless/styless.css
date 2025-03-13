@@ -207,5 +207,5 @@ footer input[type="text"] ,footer input[type="email"],footer textarea {
   padding: 10px 14px;
   margin-bottom: 12px;
   width: 100%;
-  border: 0.3px solid black;
+  /* border: 0.3px solid black; */
 }
